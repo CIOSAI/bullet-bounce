@@ -1,0 +1,9 @@
+[gd_resource type="Resource" load_steps=2 format=2]
+
+[ext_resource path="res://Weapon_Attribute.gd" type="Script" id=1]
+
+[resource]
+script = ExtResource( 1 )
+base_dmg = 1.0
+crit_scale = 2.0
+crit_chance = 0.1
